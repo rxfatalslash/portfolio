@@ -213,19 +213,19 @@
                         <p class="resumen">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos maiores nobis asperiores voluptatibus doloribus repellat similique soluta qui modi sunt!</p>
                         <p class="resumen">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos maiores nobis asperiores voluptatibus doloribus repellat similique soluta qui modi sunt!</p>
 
-                        <p class="label">HTML</p>
-                        <div class="progress mb-3">
-                            <div class="progress-bar text-start" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="95" style="width: 95%;">95%</div>
-                        </div>
-
-                        <p class="label">CSS</p>
+                        <p class="label">Windows</p>
                         <div class="progress mb-3">
                             <div class="progress-bar text-start" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100" style="width: 100%;">100%</div>
                         </div>
 
-                        <p class="label">JavaScript</p>
+                        <p class="label">Linux</p>
                         <div class="progress mb-3">
-                            <div class="progress-bar text-start" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="85" style="width: 85%;">85%</div>
+                            <div class="progress-bar text-start" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="70" style="width: 70%;">70%</div>
+                        </div>
+
+                        <p class="label">Desarrollo web</p>
+                        <div class="progress mb-3">
+                            <div class="progress-bar text-start" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="55" style="width: 55%;">55%</div>
                         </div>
                     </div>
                 </div>
