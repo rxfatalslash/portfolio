@@ -210,8 +210,8 @@
                     </div>
                     <div class="col-12 col-lg-8 info">
                         <h2 class="titulo text-center text-lg-start">Acerca de</h2>
-                        <p class="resumen">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos maiores nobis asperiores voluptatibus doloribus repellat similique soluta qui modi sunt!</p>
-                        <p class="resumen">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos maiores nobis asperiores voluptatibus doloribus repellat similique soluta qui modi sunt!</p>
+                        <p class="resumen">Mi nombre es Aarón Sánchez, soy administrador de sistemas y redes, con conocimientos de Windows y Linux. Además, poseo conocimiento sobre desarrollo de aplicaciones web.</p>
+                        <p class="resumen">Estoy interesado en la ciberseguridad y próximamente voy a comenzar un curso orientado a la misma, para poder dedicarme al hacking ético y la auditación de sistemas.</p>
 
                         <p class="label">Windows</p>
                         <div class="progress mb-3">
